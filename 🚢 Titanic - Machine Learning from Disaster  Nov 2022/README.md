@@ -95,7 +95,7 @@
 ## Result
 1. **Scoreboard**
 
-![alt text](Result/profile.png)
+![alt text](Result/result.png)
 <br />
 
 <!-- Improvement -->
