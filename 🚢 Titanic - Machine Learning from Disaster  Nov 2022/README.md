@@ -35,7 +35,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-### Titanic - Machine Learning from Disaster (Nov 2022)
+### **Titanic** - Machine Learning from Disaster (Nov 2022)
 ![alt text](Result/model_accurate.png)
 
 <b>Objective</b> - use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
@@ -84,11 +84,11 @@
 1. Windows 11 (64 bit ) or Ubuntu 20.04 or 18.04 (Environment)
 2. Clone the Project
 ```sh
-   git clone 
+  > git clone 
    ```
-2. Open CMD in root directory
+2. Open command line in Titanic directory
  ```sh
-   jupyter notebook
+  > jupyter notebook
    ```
 
 <!-- Improvement -->
